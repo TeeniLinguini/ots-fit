@@ -1,5 +1,7 @@
 # OTS Fit Model
 
+To see it in action, click here: https://ots-fit-model.up.railway.app/
+
 A single-URL research tool that scores a performing arts venue against a
 two-axis **Fit** (structural) and **Propensity** (timing) model, built for
 sales prioritization at On The Stage (OTS).
